@@ -1,0 +1,1 @@
+rule-default-10-10NI-red, r_w-(1.0, 1.0)

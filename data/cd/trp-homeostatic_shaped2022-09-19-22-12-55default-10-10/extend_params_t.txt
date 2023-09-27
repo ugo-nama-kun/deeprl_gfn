@@ -1,0 +1,6 @@
+blue_nutrient:(0.1, 0)
+red_nutrient:(0, 0.1)
+step_IS_rule:default
+n_blue:10
+n_red:10
+reward_weight:(1.0, 1.0)

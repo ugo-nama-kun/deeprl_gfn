@@ -1,0 +1,8 @@
+dir_name:trp-homeostatic_shaped2022-10-18-20-59-40exchange-10-10
+rule:rule-exchange-10-10, r_w-(1.0, 1.0)
+n_sample:20
+max_steps:8000
+n_blue_red:(10, 10)
+use_extend_settings:True
+coeff_nutrient:1
+num_balance:15
