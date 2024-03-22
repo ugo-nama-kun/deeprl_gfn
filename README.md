@@ -1,8 +1,8 @@
 # deeprl_gfn
-The code for "Deep homeostatic reinforcement learning to explain long-term nutritional strategies" by Naoto Yoshida, Etsushi Arikawa, Hoshinori Kanazawa, Yasuo Kuniyoshi.
+The code for "Deep homeostatic reinforcement learning to explain long-term nutritional behaviors" by Naoto Yoshida, Etsushi Arikawa, Hoshinori Kanazawa, Yasuo Kuniyoshi.
 
 ## Main contents
-- **plot_fig2.py**: Plotting code for Fig.2 in the paper.  
+- **plot_gfn.py**: Plotting code for Fig.5 in the paper.  
 - **train.py**:  Training code of the optimization of the agents.
 - **visualize_behavior.py**: Visualization of the trained agent.
 - **sampling_gfn.py**: Data sampling for the GFN plots.
