@@ -1,5 +1,5 @@
 # deeprl_gfn
-The code for "Deep homeostatic reinforcement learning to explain long-term nutritional behaviors" by Naoto Yoshida, Etsushi Arikawa, Hoshinori Kanazawa, Yasuo Kuniyoshi.
+The code for "Modeling long-term nutritional behaviors using deep homeostatic reinforcement learning" by Naoto Yoshida, Etsushi Arikawa, Hoshinori Kanazawa, Yasuo Kuniyoshi.
 
 ## Main contents
 - **plot_gfn.py**: Plotting code for Fig.5 in the paper.  
@@ -44,6 +44,6 @@ python {name_of_code}.py
 ```
 
 ## Ack
-Author: Naoto Yoshida @ ISI, The University of Tokyo.
+Author: Naoto Yoshida @ The University of Tokyo, Kyoto University.
 ## License
 MIT
